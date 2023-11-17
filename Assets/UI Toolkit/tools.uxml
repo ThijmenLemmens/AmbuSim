@@ -1,0 +1,14 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <Style src="project://database/Assets/UI%20Toolkit/test.uss?fileID=7433441132597879392&amp;guid=1203d1129ecb1264f835de1bda9a5e3e&amp;type=3#test" />
+    <ui:VisualElement name="VisualElement" style="flex-grow: 1; background-color: rgba(0, 0, 0, 0); justify-content: flex-end; height: 1920px; width: 1080px;">
+        <ui:GroupBox style="height: 119px; width: 608px;">
+            <ui:ScrollView name="ScrollView" style="height: 108px; width: 582px;">
+                <ui:VisualElement style="flex-grow: 1; background-color: rgba(0, 0, 0, 0); height: 101px; align-items: flex-start; justify-content: flex-end; align-self: flex-start; flex-direction: row; width: 302px;">
+                    <ui:Button display-tooltip-when-elided="true" class="btn" style="width: 80px; height: 76px;" />
+                    <ui:Button display-tooltip-when-elided="true" style="width: 80px; height: 76px; background-image: url(&apos;project://database/Assets/UI%20Toolkit/Images/https___cdn-kiosk-api.telegraaf.nl_80f14ee8-806e-11ed-8201-0257d57b707f.jpg?fileID=2800000&amp;guid=55fd3c0101cac4a45aaf0ac8ebb354bc&amp;type=3#https___cdn-kiosk-api.telegraaf.nl_80f14ee8-806e-11ed-8201-0257d57b707f&apos;);" />
+                    <ui:Button display-tooltip-when-elided="true" style="width: 80px; height: 76px; background-image: url(&apos;project://database/Assets/UI%20Toolkit/Images/download.png?fileID=2800000&amp;guid=e0159a91b8e4e3d4baecabfd6a8c6222&amp;type=3#download&apos;);" />
+                </ui:VisualElement>
+            </ui:ScrollView>
+        </ui:GroupBox>
+    </ui:VisualElement>
+</ui:UXML>
